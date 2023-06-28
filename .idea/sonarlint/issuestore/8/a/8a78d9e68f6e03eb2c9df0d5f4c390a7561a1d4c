@@ -1,0 +1,22 @@
+
+Y
+java:S1854;"<Remove this useless assignment to local variable "contador".(šòŸ8ØÁ†”Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡ôİøÿÿÿÿ8ÙÁ†”Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ²Ë8ÙÁ†”Œ1
+h
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(Õ««£8ÚÁ†”Œ1
+g
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "!="(®‚„;8ÚÁ†”Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½—×8ÚÁ†”Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö€éë8ÚÁ†”Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±µ¨ç8ÛÁ†”Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø¨ ¶şÿÿÿÿ8ÛÁ†”Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùëÅûÿÿÿÿ8ÛÁ†”Œ1
+]	java:S125"<This block of commented-out lines of code should be removed.(üæñûÿÿÿÿ8ÛÁ†”Œ1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¡ï¯ı8ÜÁ†”Œ1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(†üÛ•ıÿÿÿÿ8ÜÁ†”Œ1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÆÓÂ£üÿÿÿÿ8ÜÁ†”Œ1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(õ¦Ë´8ÜÁ†”Œ1
+O
+java:S14816"-Remove this unused "contador" local variable.(¸¼¾ÿøÿÿÿÿ8İÁ†”Œ1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Ëç¢ûüÿÿÿÿ8İÁ†”Œ1

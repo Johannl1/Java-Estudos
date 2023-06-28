@@ -1,0 +1,11 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "numeros3".(Å±á˜üÿÿÿÿ8ç›ÆÚ1
+X
+java:S1854";Remove this useless assignment to local variable "numeros".(õ¤ø¥8ÔäÆÚ1
+I
+java:S1481",Remove this unused "numeros" local variable.(õ¤ø¥8ÕäÆÚ1
+O
+java:S1481"-Remove this unused "numeros3" local variable.(Å±á˜üÿÿÿÿ8é›ÆÚ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’š·‘8ê›ÆÚ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8ì›ÆÚ1

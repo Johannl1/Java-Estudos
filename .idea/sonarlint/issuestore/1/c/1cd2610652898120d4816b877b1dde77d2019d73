@@ -1,0 +1,26 @@
+
+`
+java:S1854">Remove this useless assignment to local variable "idadeShort".(â²¸Òıÿÿÿÿ8³üŞ“Œ1
+Z
+java:S1854"=Remove this useless assignment to local variable "idadeByte".(â²§Ñ8´üŞ“Œ1
+b
+java:S1854
+"@Remove this useless assignment to local variable "salarioFloat".(¸‡´äúÿÿÿÿ8´üŞ“Œ1
+c
+java:S1854	"ARemove this useless assignment to local variable "salarioDouble".(”˜¥êıÿÿÿÿ8µüŞ“Œ1
+T
+java:S1481	"2Remove this unused "salarioDouble" local variable.(”˜¥êıÿÿÿÿ8ÕüŞ“Œ1
+S
+java:S1481
+"1Remove this unused "salarioFloat" local variable.(¸‡´äúÿÿÿÿ8ÖüŞ“Œ1
+K
+java:S1481".Remove this unused "idadeByte" local variable.(â²§Ñ8×üŞ“Œ1
+Q
+java:S1481"/Remove this unused "idadeShort" local variable.(â²¸Òıÿÿÿÿ8ØüŞ“Œ1
+Q
+java:S1481"/Remove this unused "verdadeiro" local variable.(ŠŸ¦‰øÿÿÿÿ8ÚüŞ“Œ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(”–ª]8åüŞ“Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©şÆ8çüŞ“Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßé«ªúÿÿÿÿ8èüŞ“Œ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²»‹Úüÿÿÿÿ8êüŞ“Œ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®´¸Ù8ìüŞ“Œ1
